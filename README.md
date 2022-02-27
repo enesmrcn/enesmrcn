@@ -93,5 +93,5 @@
   <!-- Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=enesmrcn.enesmrcn)
 
-[<img align="center-right" width="400" src="https://github-readme-stats.vercel.app/api?username=enesmrcn&show_icons=true"/>](https://github.com/enesmrcn/)
+[<img style= "object-position: center top;" width="400" src="https://github-readme-stats.vercel.app/api?username=enesmrcn&show_icons=true"/>](https://github.com/enesmrcn/)
 
