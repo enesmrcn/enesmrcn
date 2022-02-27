@@ -20,7 +20,7 @@
 <a href="https://medium.com">
   <img align="left" alt="TomasCostaK Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <div>
   
 <br />
