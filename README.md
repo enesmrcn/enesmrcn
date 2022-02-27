@@ -4,7 +4,7 @@
 
 <h2> 
 <p align="center">
-  Em
+  Hi There 👋 I am Enes Mercan
 </p>
   </h2>
 
