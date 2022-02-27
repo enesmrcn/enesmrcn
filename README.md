@@ -37,7 +37,7 @@
   
 - ⚡ &nbsp;
   ![Altium](https://img.shields.io/badge/Altium-333333?style=flat&logo=altiumdesigner&logoColor=A5915F)
-  ![Eagle](https://img.shields.io/badge/-Eagle-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Eagle](https://img.shields.io/badge/-Eagle-333333?style=flat&logo=eagle&logoColor=1572B6)
   ![Proteus](https://img.shields.io/badge/-Proteus-333333?style=flat&logo=javascript)
 <br/>
 
