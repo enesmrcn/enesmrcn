@@ -11,7 +11,6 @@
 </h2>
 
 
-<br/>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -20,14 +19,14 @@
 - 🚀 &nbsp; Designing hardware for NASA Satellite challenge and LACS Rocket Challege
 - ⚡ &nbsp; Learning more about Advanced Hardware Design
 
-<br/>
+
 
 <h2> 
   <p align="center">
   </p>
 </h2>
 
-<br/>
+
 
 <h3> 🏆 &nbsp;Awards</h3>
 
@@ -35,13 +34,13 @@
 - 🛰️ &nbsp; 4th Place - International Satellite Competition (TEKNOFEST) [2021]
 - 🛰️ &nbsp; 29th Place - International Satellite Competition (TEKNOFEST) [2020]
 
-<br/>
+
 
 <h2> 
   <p align="center">
   </p>
 </h2>
-<br/>
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -63,14 +62,14 @@
   ![Altium](https://img.shields.io/badge/-Technical.Documentation-000000?style=flat)
   ![Altium](https://img.shields.io/badge/-Embedded.Software.Development-000000?style=flat) 
   
-  <br/>
+ 
   
 <h2> 
   <p align="center">
   </p>
 </h2>
 
-<br/>
+
 
 <!-- Contact Section -->
 
