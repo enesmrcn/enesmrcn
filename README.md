@@ -4,7 +4,10 @@
 
 <h2> 
 <p align="center">
-  Hi There 👋 I am Enes Mercan
+  Hi There 👋 I am 
+  <a href="https://twitter.com/ajaykhalsa_ak">
+  Enes Mercan
+  </a>
 </p>
   </h2>
 
