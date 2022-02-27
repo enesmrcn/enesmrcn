@@ -1,18 +1,14 @@
 
-
-
+<!-- Greeting Section -->
 
 <h2> 
-<p align="center">
-  Hi There 👋 I am 
-  <a href="https://twitter.com/ajaykhalsa_ak">
-  Enes Mercan
-  </a>
-</p>
-  </h2>
-
-<!-- Greeting Section -->
-### Hi There 👋 I am [Enes Mercan](https://github.com/enesmrcn)
+  <p align="center">
+      Hi There 👋 I am 
+      <a href="https://github.com/enesmrcn">
+      Enes Mercan
+      </a>
+  </p>
+</h2>
 
 <a href="https://www.linkedin.com/in/tomascostax/">
   <img align="left" alt="TomasCostaK LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
