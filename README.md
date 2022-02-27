@@ -6,9 +6,12 @@
 <!-- Stats -->
 
 <br/>
+  <p align="center">     
 <a href="https://github.com/enesmrcn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enesmrcn&theme=buefy&show_icons=true" />
 </a>
+  </p>
+  
 <br/>
 
 
