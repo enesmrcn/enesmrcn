@@ -31,7 +31,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+  ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
   ![Assembly](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=assemblyscript)
   ![Assembly](https://img.shields.io/badge/-Assembly-111111?style=flat&logo=assemblyscript) <!-- Greeting Section -->
