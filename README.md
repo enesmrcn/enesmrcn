@@ -32,7 +32,7 @@
 
 - 💻 &nbsp;
   ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Assembly](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=python)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
 - 🌐 &nbsp;
