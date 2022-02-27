@@ -1,1 +1,1 @@
-# Hey there! I'm ENES MERCAN <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hello World 👋 I am [Enes Mercan](https://github.com/enesmrcn)
