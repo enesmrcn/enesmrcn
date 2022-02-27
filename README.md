@@ -2,10 +2,11 @@
 
 
 
-
+<h2> 
 <p align="center">
   ### Hi There 👋 I am [Enes Mercan](https://github.com/enesmrcn)
 </p>
+  </h2>
 
 <!-- Greeting Section -->
 ### Hi There 👋 I am [Enes Mercan](https://github.com/enesmrcn)
