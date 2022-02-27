@@ -1,6 +1,7 @@
   <!-- Greeting Section -->
 ### Hello World 👋 I am [Enes Mercan](https://github.com/enesmrcn)
 
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=enesmrcn&show_icons=true"/>](https://github.com/enesmrcn/)
 
 
 <!-- Stats -->
