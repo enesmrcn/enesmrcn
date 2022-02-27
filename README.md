@@ -31,7 +31,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=altiumdesigner&logoColor=00599C)
+  ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=altiumdesigner&logoColor=A5915F)
   ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=python)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
