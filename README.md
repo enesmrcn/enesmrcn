@@ -31,9 +31,13 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-   ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Assembly](https://img.shields.io/badge/-Assembly-111111?style=flat&logo=assemblyscript)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+  ![Assembly](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=assemblyscript)
+  ![Assembly](https://img.shields.io/badge/-Assembly-111111?style=flat&logo=assemblyscript) <!-- Greeting Section -->
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) <!-- Greeting Section -->
+  ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00599C)
+  
   
 - ⚡ &nbsp;
   ![Altium](https://img.shields.io/badge/Altium-333333?style=flat&logo=altiumdesigner&logoColor=A5915F)
