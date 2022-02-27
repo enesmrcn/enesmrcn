@@ -32,17 +32,15 @@
 
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-  ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-  ![Assembly](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=assemblyscript)
-  ![Assembly](https://img.shields.io/badge/-Assembly-111111?style=flat&logo=assemblyscript) <!-- Greeting Section -->
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) <!-- Greeting Section -->
-  ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Assembly](https://img.shields.io/badge/-Assembly-000000?style=flat&logo=assemblyscript)
+  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=00599C)
   
   
 - ⚡ &nbsp;
-  ![Altium](https://img.shields.io/badge/Altium-333333?style=flat&logo=altiumdesigner&logoColor=A5915F)
-  ![Eagle](https://img.shields.io/badge/-Eagle-333333?style=flat&logo=eagle&logoColor=1572B6)
-  ![Proteus](https://img.shields.io/badge/-Proteus-333333?style=flat&logo=javascript)
+  ![Altium](https://img.shields.io/badge/-Altium-000000?style=flat&logo=altiumdesigner&logoColor=ffffff)
+  ![Eagle CAD](https://img.shields.io/badge/-Eagle-000000?style=flat)
+  ![Proteus](https://img.shields.io/badge/-Proteus-000000?style=flat)
 <br/>
 
 
