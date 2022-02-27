@@ -18,10 +18,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Embedded Systems Enegineer pursuing Electrical&Electronics Engineering (BSc)
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Embedded Systems Enegineer pursuing Electrical-Electronics Engineering (BSc)
+- 💼 &nbsp; Working as Embedded Systems Engineer at ESS Systems on Mid-Altitude Rocket Hardware
+- ⚡ &nbsp; Learning more about Advanced Hardware Design currently
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
