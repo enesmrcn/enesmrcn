@@ -18,7 +18,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Electrical-Electronics Engineering (BSc) - Senior Student
-- 💼 &nbsp; Working as Embedded Systems Engineer at ESS Systems on Mid-Altitude Rocket Avionics
+- 💼 &nbsp; Working as Embedded Systems Engineer at Eurasia Space Systems (ESS)
 - 🚀 &nbsp; Designing hardware for NASA Satellite challenge and LACS Rocket Challege
 - ⚡ &nbsp; Learning more about Advanced Hardware Design
 
