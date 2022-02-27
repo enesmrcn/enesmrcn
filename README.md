@@ -17,10 +17,16 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🚀 &nbsp; Desinging hardware for NASA Satellite challenge and LACS Rocket Challege
+- 🚀 &nbsp; Designing hardware for NASA Satellite challenge and LACS Rocket Challege
 - 🎓 &nbsp; Embedded Systems Enegineer pursuing Electrical-Electronics Engineering (BSc)
-- 💼 &nbsp; Working as Embedded Systems Engineer at ESS Systems on Mid-Altitude Rocket Hardware
+- 💼 &nbsp; Working as Embedded Systems Engineer at ESS Systems on Mid-Altitude Rocket Avionics
 - ⚡ &nbsp; Learning more about Advanced Hardware Design
+
+<h3> 🏆 &nbsp;Awards</h3>
+
+- 🚀 &nbsp; 2nd Place - Worldwide Rocket Competition (LACTS) [2021]
+- 🛰️ &nbsp; 4th Place - International Satellite Competition (TEKNOFEST) [2021]
+- 🛰️ &nbsp; 29th Place - International Satellite Competition (TEKNOFEST) [2020]
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
