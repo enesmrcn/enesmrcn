@@ -17,10 +17,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🚀 &nbsp; Desinging hardware for NASA Satellite challenge and LACS Rocket Challege
 - 🎓 &nbsp; Embedded Systems Enegineer pursuing Electrical-Electronics Engineering (BSc)
 - 💼 &nbsp; Working as Embedded Systems Engineer at ESS Systems on Mid-Altitude Rocket Hardware
-- ⚡ &nbsp; Learning more about Advanced Hardware Design currently
+- ⚡ &nbsp; Learning more about Advanced Hardware Design
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
