@@ -4,7 +4,7 @@
 
 
 <p align="center">
- <h2 align="center">### Hi There 👋 I am [Enes Mercan](https://github.com/enesmrcn) </h2>
+  ### Hi There 👋 I am [Enes Mercan](https://github.com/enesmrcn)
 </p>
 
 <!-- Greeting Section -->
