@@ -48,8 +48,8 @@
   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Assembly](https://img.shields.io/badge/-Assembly-000000?style=flat&logo=assemblyscript)
-  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=00599C)
-  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB)
+  ![Github](http://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=green)
   
 - ⚡ &nbsp;
   ![Altium](https://img.shields.io/badge/-Altium-000000?style=flat&logo=altiumdesigner&logoColor=#A5915F) 
