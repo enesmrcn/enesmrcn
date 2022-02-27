@@ -78,21 +78,6 @@
 
 <br />
 
-<div><p>My overview: </p></div>
-
-![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=TomasCostaK&show_icons=true)
-<br />
-
-<!-- Optional Visitors badge: -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
-
-⭐️ From [TomasCostaK](https://github.com/TomasCostaK/TomasCostaK) 
-
-<br />
-
-
-
-
 
   <!-- Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=enesmrcn.enesmrcn)
