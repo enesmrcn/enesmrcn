@@ -72,17 +72,16 @@
 
 
 <!-- Contact Section -->
-
+<br/>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">   
     <a href="https://www.linkedin.com/in/enesmercan/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
     <a href="mailto:enesmercan1453@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
+    
   </p>
   
-
-<br />
 
 
 <h2> 
@@ -94,4 +93,5 @@
   <!-- Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=enesmrcn.enesmrcn)
 
+[<img align="center-right" width="400" src="https://github-readme-stats.vercel.app/api?username=enesmrcn&show_icons=true"/>](https://github.com/enesmrcn/)
 
