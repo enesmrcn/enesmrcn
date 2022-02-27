@@ -1,8 +1,9 @@
   <!-- Greeting Section -->
 ### Hello World 👋 I am [Enes Mercan](https://github.com/enesmrcn)
 
-[<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=enesmrcn&show_icons=true"/>](https://github.com/enesmrcn/)
-
+<p align="center">   
+[<img width="400" src="https://github-readme-stats.vercel.app/api?username=enesmrcn&show_icons=true"/>](https://github.com/enesmrcn/)
+</p>
 
 <!-- Stats -->
 
