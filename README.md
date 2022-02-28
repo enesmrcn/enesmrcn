@@ -30,7 +30,7 @@
 
 <h3> 🏆 &nbsp;Awards</h3>
 
-- 🚀 &nbsp; 2nd Place - Worldwide Rocket Competition (LACTS) [2021]
+- 🚀 &nbsp; 2nd Place - Latin American Space Challenge (LASC) [2021]
 - 🛰️ &nbsp; 4th Place - International Satellite Competition (TEKNOFEST) [2021]
 - 🛰️ &nbsp; 29th Place - International Satellite Competition (TEKNOFEST) [2020]
 
