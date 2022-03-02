@@ -52,8 +52,8 @@
   ![Github](http://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=green)
   
 - ⚡ &nbsp;
-  ![Altium](https://img.shields.io/badge/-Altium-000000?style=flat&logo=altiumdesigner&logoColor=#A5915F) 
-  ![Eagle CAD](https://img.shields.io/badge/-Eagle-000000?style=flat&logo=autodesk&logoColor=#0696D7) 
+  ![Altium](https://img.shields.io/badge/-Altium%20Designer-000000?style=flat&logo=altiumdesigner&logoColor=#A5915F) 
+  ![Eagle CAD](https://img.shields.io/badge/-Eagle%20CAD-000000?style=flat&logo=autodesk&logoColor=#0696D7) 
   ![Proteus](https://img.shields.io/badge/-Proteus-000000?style=flat&logo=atom&logoColor=#66595C)
   ![Matlab](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=matlab&logoColor=#A5915F)
   
