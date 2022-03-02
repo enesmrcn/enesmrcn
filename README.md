@@ -90,6 +90,6 @@
 
 
   <!-- Visitors badge: -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=enesmrcn.enesmrcn)  [![GitHub Thaiane](https://img.shields.io/github/followers/enesmrcn?label=follow&style=social)](https://github.com/Thaiane)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=enesmrcn.enesmrcn)  [![GitHub Thaiane](https://img.shields.io/github/followers/enesmrcn?label=follow&style=social)](https://github.com/enesmrcn)
 
 
