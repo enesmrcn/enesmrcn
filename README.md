@@ -58,9 +58,9 @@
   ![Matlab](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=matlab&logoColor=#A5915F)
   
 - 🦾 &nbsp;
-  ![Altium](https://img.shields.io/badge/-Hardware%20Design-000000?style=flat)
-  ![Altium](https://img.shields.io/badge/-Technical%20Documentation-000000?style=flat)
-  ![Altium](https://img.shields.io/badge/-Embedded%20Software%20Development-000000?style=flat) 
+  ![Hardware Design](https://img.shields.io/badge/-Hardware%20Design-000000?style=flat)
+  ![TechDoc](https://img.shields.io/badge/-Technical%20Documentation-000000?style=flat)
+  ![EmSoftDev](https://img.shields.io/badge/-Embedded%20Software%20Development-000000?style=flat) 
   
  
   
