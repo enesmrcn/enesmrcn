@@ -10,7 +10,7 @@
   </p>
 </h2>
 
-
+<!-- ABOUT ME -->
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -26,7 +26,7 @@
   </p>
 </h2>
 
-
+<!-- AWARDS -->
 
 <h3> 🏆 &nbsp;Awards</h3>
 
@@ -41,6 +41,7 @@
   </p>
 </h2>
 
+<!-- Tech Stack -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -61,6 +62,24 @@
   ![Hardware Design](https://img.shields.io/badge/-Hardware%20Design-000000?style=flat)
   ![TechDoc](https://img.shields.io/badge/-Technical%20Documentation-000000?style=flat)
   ![EmSoftDev](https://img.shields.io/badge/-Embedded%20Software%20Development-000000?style=flat) 
+  
+ 
+ 
+ 
+ <h2> 
+  <p align="center">
+  </p>
+</h2>
+
+<!-- MY REPOSITORIES -->
+
+<h3> :octocat: &nbsp;My Repositories</h3> 
+
+- <a href="https://github.com/enesmrcn/PIC-MCU-Projects"> PCB Design </a> &nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/enesmrcn/PCB-Design?style=flat)
+- <a href="https://github.com/enesmrcn/PIC-MCU-Projects"> PIC Embedded Projects </a> &nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/enesmrcn/PIC-MCU-Projects?style=flat)
+- <a href="https://github.com/enesmrcn/MSP430xxx-Projects"> MSP430 Embedded Projects </a> &nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/enesmrcn/MSP430xxx-Projects?style=flat)
+- <a href="https://github.com/enesmrcn/Wireless-Comm-Tool-Set"> Wave Propagation Calculation Tools </a>  &nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/enesmrcn/Wireless-Comm-Tool-Set?style=flat)
+- <a href="https://github.com/enesmrcn/Computer-Vision-Python"> Computer Vision Projects </a> &nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/enesmrcn/Computer-Vision-Python?style=flat)
   
  
   
