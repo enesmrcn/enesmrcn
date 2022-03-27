@@ -75,7 +75,7 @@
 
 <h3> :octocat: &nbsp;My Repositories</h3> 
 
-- <a href="https://github.com/enesmrcn/PIC-MCU-Projects"> PCB Design </a> &nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/enesmrcn/PCB-Design?style=flat)
+- <a href="https://github.com/enesmrcn/PCB-Design"> PCB Design </a> &nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/enesmrcn/PCB-Design?style=flat)
 - <a href="https://github.com/enesmrcn/PIC-MCU-Projects"> PIC Embedded Projects </a> &nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/enesmrcn/PIC-MCU-Projects?style=flat)
 - <a href="https://github.com/enesmrcn/MSP430xxx-Projects"> MSP430 Embedded Projects </a> &nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/enesmrcn/MSP430xxx-Projects?style=flat)
 - <a href="https://github.com/enesmrcn/Wireless-Comm-Tool-Set"> Wave Propagation Calculation Tools </a>  &nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/enesmrcn/Wireless-Comm-Tool-Set?style=flat)
