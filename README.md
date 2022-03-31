@@ -73,7 +73,7 @@
 
 <!-- MY REPOSITORIES -->
 
-<h3> :octocat: &nbsp;My Repositories</h3> 
+<h3> :octocat: &nbsp;My Featured Repositories</h3> 
 
 - <a href="https://github.com/enesmrcn/PCB-Design"> PCB Design </a> &nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/enesmrcn/PCB-Design?style=flat)
 - <a href="https://github.com/enesmrcn/PIC-MCU-Projects"> PIC Embedded Projects </a> &nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/enesmrcn/PIC-MCU-Projects?style=flat)
