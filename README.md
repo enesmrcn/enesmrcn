@@ -16,10 +16,7 @@
 
 - 🎓 &nbsp; Studying Electrical-Electronics Engineering (BSc) - Senior Student
 - 💼 &nbsp; Working as Hardware Design Engineer at <a href="https://www.digitest.com.tr/" target="_blank"> Digitest Defence and Aerospace </a>
-- 🚀 &nbsp; Designing hardware for NASA Satellite challenge and LACS Rocket Challege
 - ⚡ &nbsp; Learning more about Advanced Hardware Design
-
-
 
 <h2> 
   <p align="center">
@@ -64,7 +61,6 @@
   ![TechDoc](https://img.shields.io/badge/-Technical%20Documentation-000000?style=flat)
   ![EmSoftDev](https://img.shields.io/badge/-Embedded%20Software%20Development-000000?style=flat) 
   
- 
  
  
  <h2> 
