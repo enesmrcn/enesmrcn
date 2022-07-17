@@ -27,10 +27,10 @@
 
 <h3> 🏆 &nbsp;Awards</h3>
 
-- 🛰️ &nbsp; 3rd Place - NASA CanSAT Satellite Design Competition (CANSAT'22)
-- 🚀 &nbsp; 2nd Place - Latin American Space Challenge (LASC'21)
-- 🛰️ &nbsp; 4th Place - International Satellite Design Competition (TEKNOFEST'21)
-- 🛰️ &nbsp; 29th Place - International Satellite Design Competition (TEKNOFEST'20)
+- 🛰️ &nbsp; 3rd Place - NASA Satellite Design Competition <a href="https://www.cansatcompetition.com/"> (CANSAT'22) <a/>
+- 🚀 &nbsp; 2nd Place - Latin American Space Challenge <a href="https://www.lasc.space/"> (LASC'21) <a/>
+- 🛰️ &nbsp; 4th Place - International Satellite Design Competition <a href="https://teknofest.org/en/competitions/competition/28"> (TEKNOFEST'21) <a/>
+- 🛰️ &nbsp; 29th Place - International Satellite Design Competition <a href="https://teknofest.org/en/competitions/competition/28"> (TEKNOFEST'20) <a/>
 
 
 
