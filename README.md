@@ -31,6 +31,8 @@
 - 🚀 &nbsp; 2nd Place - Latin American Space Challenge <a href="https://www.lasc.space/"> (LASC'21) <a/>
 - 🛰️ &nbsp; 4th Place - International Satellite Design Competition <a href="https://teknofest.org/en/competitions/competition/28"> (TEKNOFEST'21) <a/>
 - 🛰️ &nbsp; 29th Place - International Satellite Design Competition <a href="https://teknofest.org/en/competitions/competition/28"> (TEKNOFEST'20) <a/>
+- 🗽 &nbsp; 2019 - USA Cultural Exchange Student Visitor <a href="https://drive.google.com/file/d/12tT-5-ogMRQn7lSkVXF_ONN0YGgNRa3i/view?usp=sharing"> (USA W&T'19) <a/>
+- 🗽 &nbsp; 2018 - USA Cultural Exchange Student Visitor <a href="https://drive.google.com/file/d/1TMrweLDX-ogr3yKPB3HtraZQ-x24n6mw/view?usp=sharing"> (USA W&T'18) <a/>
 
 
 
