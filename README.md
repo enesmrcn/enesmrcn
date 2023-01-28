@@ -15,7 +15,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Electrical-Electronics Engineering (BSc) - Senior Student
-- 💼 &nbsp; Working as Hardware Design Engineer at <a href="https://www.digitest.com.tr/" target="_blank"> Digitest Defence and Aerospace </a>
+- 💼 &nbsp; Corporate Hardware Design Engineer at <a href="https://dofrobotics.com/" target="_blank"> DOF Robotics </a>
 - ⚡ &nbsp; Learning more about Advanced Hardware Design
 
 <h2> 
