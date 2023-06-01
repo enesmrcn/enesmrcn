@@ -3,9 +3,9 @@
 
 <h2> 
   <p align="center">
-      Hi There 👋 I am 
+      Hi there 👋 I am 
       <a href="https://github.com/enesmrcn">
-      Enes Mercan
+      ENES MERCAN
       </a>
   </p>
 </h2>
