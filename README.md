@@ -15,7 +15,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Electrical-Electronics Engineering (BSc) - Senior Student
-- 💼 &nbsp; Hardware Design Engineer at <a href="https://bilgem.tubitak.gov.tr/en/" target="_blank"> TÜBİTAK BİLGEM </a>
+- 💼 &nbsp; Satellite Avionics Design Engineer at <a href="https://ferganispace.com/en/" target="_blank"> Fergani Space Tech </a>
 - ⚡ &nbsp; Learning more about Advanced Hardware Design
 
 <h2> 
