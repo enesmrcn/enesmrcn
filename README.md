@@ -14,9 +14,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Electrical-Electronics Engineering (BSc) - Senior Student
-- 💼 &nbsp; Satellite Avionics Design Engineer at <a href="https://ferganispace.com/en/" target="_blank"> Fergani Space Tech </a>
-- ⚡ &nbsp; Learning more about Advanced Hardware Design
+- 🎓 &nbsp; Studying Electrical-Electronics Engineering (MSc) - Senior Student
+- 💼 &nbsp; Spacecraft Electronics Design Engineer at <a href="https://ferganispace.com/en/" target="_blank"> Fergani Space Tech </a>
+- ⚡ &nbsp; Learning more about Space-Grade Electronic Design
 
 <h2> 
   <p align="center">
