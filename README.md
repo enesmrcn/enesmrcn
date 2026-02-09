@@ -28,7 +28,7 @@
 <h3> 🏆 &nbsp;Satellites Launched</h3>
 
 - 🛰️ &nbsp; FGN-100-D3 is a Micro-Satellite for our Navigation Constellation launched in 2026
-- 🚀 &nbsp; FGN-10-D01 is a Cube-Satellite for demonstration laundhed in 2025
+- 🚀 &nbsp; FGN-10-D01 is a Cube-Satellite for demonstration launched in 2025
 - 🚀 &nbsp; FGN-TUG-S01 is an Orbital Transfer Vehicle launched in 2025
 - 🛰️ &nbsp; FGN-100-D2 is a Micro-Satellite for our Navigation Constellation launched in 2025
 - 🛰️ &nbsp; FGN-100-D1 is a Micro-Satellite for our Navigation Constellation launched in 2025
