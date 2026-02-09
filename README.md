@@ -23,6 +23,22 @@
   </p>
 </h2>
 
+<!-- SATELLITES LAUNCHED -->
+
+<h3> 🏆 &nbsp;Satellites Launched</h3>
+
+- 🛰️ &nbsp; MicroSatellite --> FGN-100-D3 (Navigation Constellation) - 2026
+- 🚀 &nbsp; SpaceOTV--> FGN-10-D01 (CubeSAT) - 2025
+- 🚀 &nbsp; SpaceOTV--> FGN-TUG-S01 (Orbital Transfer Vehicle) - 2025
+- 🛰️ &nbsp; MicroSatellite --> FGN-100-D2 (Navigation Constellation) - 2025
+- 🛰️ &nbsp; MicroSatellite --> FGN-100-D1 (Navigation Constellation) - 2025
+
+<h2> 
+  <p align="center">
+  </p>
+</h2>
+
+
 <!-- AWARDS -->
 
 <h3> 🏆 &nbsp;Awards</h3>
@@ -40,6 +56,7 @@
   <p align="center">
   </p>
 </h2>
+
 
 <!-- Tech Stack -->
 
