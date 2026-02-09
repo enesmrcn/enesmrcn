@@ -25,7 +25,7 @@
 
 <!-- SATELLITES LAUNCHED -->
 
-<h3> 🚀 &nbsp;Satellites I Contructed </h3>
+<h3> 🚀 &nbsp;Satellites I Sent to Orbit </h3>
 
 - 🛰️ &nbsp; FGN-100-D3 is a Micro-Satellite for our Navigation Constellation launched in 2026
 - 🚀 &nbsp; FGN-10-D01 is a Cube-Satellite for demonstration launched in 2025
